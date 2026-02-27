@@ -1,0 +1,6 @@
+[Hasil Praktikum 2](./halamanawal.png)
+[Hasil Praktikum 2](./register.png)
+[Hasil Praktikum 2](./login.png)
+[Hasil Praktikum 2](./dashboard.png)
+[Hasil Praktikum 2](./about.png)
+[Hasil Praktikum 2](./profile.png)
